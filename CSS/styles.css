@@ -1,0 +1,45 @@
+body {
+  background-color: #000000;
+  color: #EBEBEB;
+  font-family: 'Saira', sans-serif;
+  letter-spacing: 1px;
+}
+
+hr {
+  border-color: #5A5A5A;
+  border-style: dotted;
+  border-width: 5px 0 0;
+  width: 6%;
+  margin: 4em auto;
+}
+
+h1 {
+  color: #FF7B08;
+}
+
+h3 {
+  color: #FF7B08;
+}
+
+a {
+  text-decoration: none;
+}
+/* unvisited link */
+a:link {
+  color: #EBEBEB;
+}
+
+/* visited link */
+a:visited {
+  color: #EBEBEB;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: #FF7B08;
+}
